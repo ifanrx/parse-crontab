@@ -9,12 +9,12 @@ except:
     long_description = ''
 
 setup(
-    name='crontab',
-    version='0.20.2',
+    name='crontab-ng',
+    version='0.20.3',
     description='Parse and use crontab schedules in Python',
-    author='Josiah Carlson',
-    author_email='josiah.carlson@gmail.com',
-    url='https://github.com/josiahcarlson/parse-crontab',
+    author='ifanr',
+    author_email='ifanrx@ifanr.com',
+    url='https://github.com/ifanrx/parse-crontab',
     packages=['crontab'],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
